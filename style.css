@@ -1,0 +1,250 @@
+body
+{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+.t1
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 100vh;
+    display: flex;
+    font-family: "Jacquard 24", system-ui;
+}
+.t2
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 100vh;
+    display: flex;
+      font-family: "Jacquard 24", system-ui;
+}
+.t3
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 100vh;
+      font-family: "Jacquard 24", system-ui;
+}
+.t4
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 300vh;
+      font-family: "Jacquard 24", system-ui;
+}
+.t5
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 150vh;
+      font-family: "Jacquard 24", system-ui;
+}
+.t6
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0jFFfNRuEpwiHdZLp7ZcDkaMS6ruJmr-JlA&s');
+    color: white;
+    height: 200vh;
+      font-family: "Jacquard 24", system-ui;
+}
+.emp
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp1
+{
+
+}
+.emp2
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp3
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp4
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp5
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp6
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 30vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp7
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp8
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp9
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp10
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp11
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 50vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp12
+{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.emp13
+{
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;  
+}
+.iii
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.jjj
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+.lll
+{
+    color: white;
+    height: 100vh;
+    display: flex;
+}
+h1
+{
+    line-height: 120px;
+    margin: 50px 0;
+    font-size: 9rem;
+}
+h2
+{
+    font-size: 80px;
+    margin: 0;
+    font-weight: 400;
+}
+h3
+{
+    font-size: 40px;
+    margin: 0;
+    font-weight: 400;
+}
+h4
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+h5
+{
+    font-size: 30px;
+    margin: 0;
+    font-weight: 400;
+}
+.korobka{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    margin: 0 15px;
+    padding: 0 100px;
+    width: 50%;
+}
+.photo{
+    width: 70%;
+    rotate: -5deg;
+    box-shadow: 20px 20px 20px 0 black;
+}
+.prizrak{
+    z-index: 5;
+    top: 500px;
+    right:300px;
+   position: absolute;
+   width: 1px;
+   height: 1px;
+   background-color: white;
+    box-shadow: 0 0 300px 100px white;
+}
